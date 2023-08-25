@@ -29,5 +29,3 @@ Maximum History: The history is limited to the last 20 operations.
 # Note
 Make sure to have Node.js and npm installed on your machine.
 
-# License
-This project is licensed under the MIT License.
